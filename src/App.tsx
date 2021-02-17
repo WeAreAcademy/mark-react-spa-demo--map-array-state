@@ -1,3 +1,8 @@
+/**
+ * Key takeaway: using array state with map lets us
+ *  have a dynamically changing list of things
+ */
+
 import { useState } from "react";
 
 function App() {
